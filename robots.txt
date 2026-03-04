@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://rabonabet-online.com/
+Sitemap: https://rabonabet-online.com/sitemap.xml

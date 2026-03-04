@@ -1,0 +1,204 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#172434",
+            "lang-select-color": "#222829",
+            "bg-light": "#172434",
+            "welcome-bonus-bg": "#172434",
+            "top-games-hover-fg": "#ffffff",
+            "main-bg": "#101724",
+            "text": "#ffffff",
+            "text-black": "#ffffff",
+            "table-head": "#CB0033",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#EBF500",
+            "yellow": "#CB0033",
+            "yellow-button": "#EBF500",
+            "button-text": "#ffffff",
+            "main-button-text": "#222829",
+            "border-color": "#CB0033",
+            "casino-cards": "#172434",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#CB0033",
+            "providers-back": "#172434",
+            "faq-label": "#172434",
+            "bg-footer": "#172434",
+            "copyright": "#e7e7d5",
+            "starColor": "#CB0033",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3842"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3843",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Rabona Casino Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3844",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Rabona Casino"
+        }
+    },
+    "pages": [
+        {
+            "id": "en-au-en-AU",
+            "path": "\/",
+            "name": "Английский",
+            "languageCode": "en",
+            "regionCode": "AU",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Rabona Casino",
+                    "title": " Rabona Casino & Sportsbook: Bonuses, Slots, Live Casino & Sports Betting",
+                    "description": "Play thousands of slots and live games, bet in the sportsbook, and join tournaments. Claim welcome bonuses, free spins, and ongoing offers, with convenient deposits and withdrawals including crypto options. Enjoy 24\/7 support and smooth mobile browser play.",
+                    "canonical": "rabonabet-online.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3845",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "rabonabet-online.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3846"
+                },
+                "hero": {
+                    "title": "Rabona Casino & Sportsbook — Slots, Live, and Betting",
+                    "textDesktop": "Exclusive welcome offer of",
+                    "textMobile": "Exclusive welcome bonus of",
+                    "playGame": "Play game",
+                    "claimBonus": "Claim Bonus",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3847",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -4,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3848",
+                    "mobileImageSizeModifier": 0,
+                    "mobileImageYModifier": 1,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Claim Bonus",
+                    "title": "Top Casinos",
+                    "allCasino": "All Casino",
+                    "welcomeBonusText": "Welcome bonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonus Details",
+                    "getBonusButtonText": "Get Bonus",
+                    "maximumAmountText": "Maximum amount",
+                    "wagerText": "Wager",
+                    "bonusCodeText": "Bonus Code",
+                    "casino": "Casino",
+                    "bonuses": "Bonuses",
+                    "rate": "Rate",
+                    "freeSpins": "Free Spins",
+                    "moreInfo": "More Info",
+                    "get": "Get",
+                    "refresh": "Refresh"
+                },
+                "advantages": {
+                    "title": "Advantages",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Thousands of slots with daily big payouts",
+                        "Generous welcome pack: bonus plus free spins",
+                        "HD live casino with real dealers",
+                        "Sportsbook and live betting in one account",
+                        "Fast crypto payouts and easy e-wallets",
+                        "Tournaments, missions, prizes every week",
+                        "Mobile play in browser, no app"
+                    ],
+                    "advantagesAfterText": "At our casino, we combine strong games, thrilling betting, and clear promotions so you get more value every session. We focus on convenience, speed, and variety to match any playing style. Regular events and bonus mechanics help you reach more exciting winning moments.\n",
+                    "knowMore": "Know more",
+                    "appTitle": "Rabona Casino App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3849",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Rabona Casino App",
+                    "mobileGooglePlayImageTitle": "Rabona Casino App",
+                    "mobileIosImageTitle": "Rabona Casino App"
+                },
+                "games": {
+                    "playNowText": "Play now",
+                    "title": "Popular Games",
+                    "allGames": "All Games"
+                },
+                "about": {
+                    "history": {
+                        "title": "About Rabona Casino",
+                        "description1": "We combine casino and sportsbook in one place, so you play and bet without switching. We support convenient payments and fast transactions to keep your wins feeling truly within reach.\n",
+                        "items": [
+                            "Bonus up to 5,500 + 200 FS.",
+                            "Jackpots with big payouts.",
+                            "Withdrawals up to 10,500\/month."
+                        ],
+                        "description2": "People describe us simply: there’s always something to play and something to bet on. We built a massive library of slots, table games, and live tables so you can choose your pace—from relaxed spins to intense dealer rounds. In the live casino, you get the feel of a real venue: professional hosts, clear rules, and interactive chat. ",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/3850",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "History",
+                        "description3": "For sports adrenaline, we run a full sportsbook with pre-match and live markets where timing and smart decisions matter. Inside one account, you can switch between matches and games smoothly, keeping your momentum. We support popular deposit and withdrawal options, including cryptocurrencies, so you manage your balance your way. All transactions run through protected channels, and verification helps keep the environment fair and trustworthy. New players get a strong start with a welcome package designed to add value to early deposits. After that, you’ll find ongoing offers—free spins, reload bonuses, missions, and challenges that turn routine play into rewarding progress. We host tournaments and leaderboard races where activity and consistency translate into clear prize opportunities. If you love competition, join leaderboards across slots, live games, or sports betting and climb the rankings. For frequent players, we provide a loyalty program with tiers and perks: better rewards, tailored offers, and special gifts. We keep the interface fast and intuitive so you can find games in seconds and place bets with minimal steps. Our mobile browser version is smooth and fully featured, giving you the same comfort on any screen. Support is available 24\/7 to handle everything quickly, from bonuses to payouts. We also promote responsible play and provide control tools to keep entertainment enjoyable and manageable. In the end, you get one complete space where bonuses, events, games, and betting work together to elevate your experience.\n"
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Rabona Casino: your comfort — rules, security, support",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nPlay & Access Rules: Comfort, Fairness, Safety\n<\/h3>\n\n<p>\nOur casino is built for adult players who want clear entertainment and reliable service. To access everything, you register and confirm basic details so we can protect your account and payouts. We ask you to provide accurate information because it directly affects approval speed for transactions. During play, it’s important to follow fair rules and avoid any third-party interference that breaks our policies. We support respectful communication, so toxic behavior and spam are not welcome. Bonuses and promotions are available under simple conditions clearly stated within each offer. We encourage responsible gaming and provide self-control tools so play stays comfortable. At any time, you can set limits and reminders if you want to manage your pace. We monitor security and may request extra verification if we detect unusual activity. This helps protect your balance, personal data, and tournament integrity. As a result, you get clear rules and a calm environment where everything works predictably.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAccess conditions:\n\n\n<\/h4>\n\n <ul>\n            <li>• \n18+ only — adults only.\n\n<\/li>\n            <li>• \nOne account per player — transparent bonuses and payouts.\n\n<\/li>\n            <li>• \nAccurate profile details — faster verification and withdrawals.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibited:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMulti-accounting — multiple profiles for promotions.\n\n<\/li>\n            <li>• \nAny interference attempts with platform or games.\n\n<\/li>\n            <li>• \nCollusion or unfair schemes in betting, tournaments, bonuses.\n\n<\/li>\n            <li>• \nAbuse and spam in chat or support requests.\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponsible gaming:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nDeposit\/bet limits — daily, weekly, monthly.\n\n<\/li>\n            <li>• \nTime limits & reminders — reality checks during sessions.\n\n<\/li>\n            <li>• \nBreaks & self-exclusion — pause access for a chosen period.\n\n<\/li>\n            <li>• \nSupport help — we’ll guide you to the right control tools.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n License & Data Protection: Trust at Every Step\n<\/h3>\n\n<p>\nWe operate under an international gaming license, which sets unified standards for fair play, financial procedures, and user protection. Licensing requirements shape how we handle identity checks, restrict underage access, and support proper payout processes. We keep internal policies updated to align with modern security practices. Our goal is a predictable, protected environment where you can focus on games and betting.\n\n<\/p>\n<br>\n\n\n<p>\nAll data transfer between your device and our platform is secured using modern TLS\/SSL encryption protocols. That means registration details, payment information, and account activity travel through a protected channel. We also use session-control mechanisms to prevent unauthorized logins. If the system detects unusual behavior, we activate additional checks to protect you.\n\n<\/p>\n<br>\n<p>\nWe follow data-minimization principles: we request only what’s needed to service your account, process transactions, and comply with rules. Internal access to personal data is restricted and role-based so information stays properly controlled. We use logging and monitoring to detect abuse attempts and respond quickly. This approach helps maintain a high level of trust and platform stability.\n\n<\/p>\n<br>\n<p>\nOur privacy policy explains what data we collect, how we use it, and how long we keep it. We use information to run the platform, prevent fraud, support users, and personalize offers based on your settings. You can manage communication preferences and notifications inside your profile. We also handle cookies and privacy settings carefully to keep your experience transparent and convenient.\n\n<\/p>\n<br>\n<p>\nFinancial security is built on transaction review and sensible compliance measures, including identity verification (KYC) for withdrawals. This protects your balance and helps prevent unauthorized payouts. We monitor transaction integrity and rely on established payment processing routes to keep deposits and cashouts stable. If needed, support will guide you through the fastest verification path and suitable documents.\n\n<\/p>\n<br>\n<p>\nFinally, we focus on game fairness: we use reliable game solutions and uphold randomness standards for digital titles. In live casino, transparency is inherent—real dealers, real action, clear rules. In sports betting, we provide up-to-date markets and settlement under defined rules. Together, these elements form a reliable ecosystem where security and trust are daily practice.\n\n<\/p>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nDeposits & Withdrawals: Fast, Convenient, Protected\n<\/h3>\n\n<p> \nIn our casino, we made bankroll management simple: deposit in a few clicks and withdraw winnings through the method you prefer. We support both classic payment options and cryptocurrencies, so you can choose what fits your habits. Most deposits are credited instantly, letting you move straight into games or betting. Withdrawals go through an approval step designed to protect your account and process payments correctly. Payout speed depends on the method and verification status, and we aim to handle requests promptly. We use secured data channels and reliable payment processing routes to keep transactions stable. Internal checks help prevent unauthorized operations and maintain a fair financial environment. If identity verification is needed, we guide you with clear steps and document tips. We also keep limits transparent so you can plan cashouts ahead of time. Your account history shows statuses like “processing”, “approved”, and “paid”. When available, you can use the same method for deposit and withdrawal for extra convenience. And if you need help, support will recommend the best payout route based on speed, comfort, or your preferred account currency.\n\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;font-size:14px\">\n  <thead>\n    <tr style=\"background-color: #D40035;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #172434; font-weight: bold;\">Method<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #172434; font-weight: bold;\">Deposit speed<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #172434; font-weight: bold;\">Payout after approval<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank card (Visa \/ Mastercard)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–3 business days<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>E-wallets (Skrill \/ Neteller)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Payment services (Jeton \/ MiFinity & similar)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Instant<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0–24 hours<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Bank transfer<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–2 business days<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1–5 business days<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crypto (BTC \/ ETH \/ LTC \/ USDT etc.)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Usually fast<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">Minutes up to 24 hours<\/td>\n    <\/tr>\n      <\/tbody>\n<\/table>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nMinimum withdrawal & limits:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nMinimum withdrawal: from 20 (in your account currency).\n\n<\/li>\n            <li>• \nDaily maximum withdrawal: up to 800.\n\n<\/li>\n            <li>• \nMonthly maximum withdrawal: up to 10,500.\n\n\n<\/li>\n\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCustomer Support: Fast Replies, High-Quality Solutions\n<\/h3>\n\n<p>\nWe treat support as part of your comfort, so we make communication simple and accessible. In our casino, you can reach us via live chat, email, and phone. Live chat is ideal for quick questions about bonuses, games, betting, and payout statuses. Email works best when you need to attach documents or receive a detailed account response. Phone support helps when you want to talk through details and get step-by-step guidance quickly. We aim to respond promptly: chat as fast as possible, email within short timeframes, and phone with a solution-first approach. Our team focuses on outcomes—clear explanations and concrete next actions. For transactions, we recommend the best method and check request status. For games, we help you find categories, enable demo mode, or pick formats that match your style. For bonuses, we clarify active offer rules and how to complete requirements efficiently. For security, we handle requests carefully and protect account data at every step. We also support multiple languages to reduce barriers and keep help comfortable.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nContact channels:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nLive chat: fast questions and instant solutions.\n\n<\/li>\n            <li>• \nEmail: detailed requests, documents, account clarifications.\n\n<\/li>\n            <li>• \nPhone: rapid walkthroughs and real-time guidance.\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nResponse time & service quality:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nChat: typically 1–3 minutes during active hours.\n\n<\/li>\n            <li>• \nEmail: usually within 1–6 hours, depending on topic.\n\n<\/li>\n            <li>• \nPhone: quick consultations and step-by-step help.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nLanguages:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nEnglish — primary channel.\n\n<\/li>\n            <li>• \nAdditional: widely used international UI\/support languages (availability depends on time and workload).\n<\/li>\n\n        <\/ul><br>\n"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Software Providers"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Entertainment and Gaming at  Rabona Casino",
+                        "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nLoyalty Program: Tiers, Perks, More Rewards\n<\/h3>\n<p>\nOur loyalty program is built for players who enjoy regular play and want meaningful value back for their activity. You earn points from casino and sportsbook wagering, then climb tiers and unlock new advantages. We keep it straightforward: the more you play, the more personalized bonuses and perks you receive. Higher tiers improve limits, service speed, and the range of special offers. You gain cashback, recurring gifts, and access to private promos that strengthen your bankroll. In your account, you can track progress, current tier, and next targets at a glance. Membership helps you collect more reload offers and extra value on the games you already love. We also offer a rewards “shop” where you can exchange points for boosters and bonuses. Tiers motivate not with one-time deals, but with stable improvements to your overall experience. Active players can access tailored promos, while top statuses unlock priority support and personal offers. The loyalty system pairs perfectly with tournaments: you play as usual and grow your tier progress at the same time. In the end, every bet feels like it’s building comfort and future rewards.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nRegistration conditions:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nCreate an account and confirm email.\n\n<\/li>\n            <li>• \nKeep accurate profile details.\n\n<\/li>\n            <li>• \nMake an active deposit from 20 and start playing\/betting.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTiers and how to reach them:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nBronze: starts after signup and first activity.\n\n<\/li>\n            <li>• \nSilver: earn 1,000 activity points per period.\n\n<\/li>\n            <li>• \nGold: earn 5,000 activity points per period.\n\n<\/li>\n            <li>• \nPlatinum: earn 15,000 activity points per period.\n\n<\/li>\n\t    <li>• \nDiamond: earn 40,000 activity points per period.\n\n<\/li>\n\t    <li>• \nElite: personal status for consistently high activity.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses & perks\n<\/h4>\n\n <ul>\n            <li>• \nCashback up to 15% weekly — returns value to your balance.\n\n<\/li>\n            <li>• \nReload bonuses up to 200% on selected days — boosts deposits.\n\n<\/li>\n            <li>• \nFree spins up to 200 in seasonal promos — more win chances.\n\n<\/li>\n            <li>• \nRewards shop exchanges — for example, perks equivalent up to 1,500.\n\n<\/li>\n\n\t    <li>• \nHigher withdrawal limits at upper tiers — more flexibility.\n\n<\/li>\n\t    <li>• \nPriority support — faster solutions for account and payments.\n\n<\/li>\n\t    <li>• \nGifts & personalized offers — bonuses matched to your play style.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses & Promotions: More Play, More Winning Moments\n<\/h3>\n\n<p>\nWe love keeping the experience exciting, so you’ll always find active offers that boost your bankroll and your emotions. New players get a welcome package designed to make the first steps feel rewarding. After that, you’ll see regular deposit promos that help extend sessions and create more chances for strong streaks. If you enjoy competition, we run slot tournaments and leaderboard races where prizes are awarded based on consistent activity. For sports bettors, we feature special first-deposit offers and event promos built around major matches. We often add missions and challenges—complete simple tasks and earn rewards that keep your momentum. In slots, jackpot titles add extra thrill with their high-potential win feel. In live casino, we run themed weeks and curated tables so you can reach your favorite formats faster. Seasonal campaigns refresh the experience with holiday promos, “monthly races,” themed rewards, and special draws. We also support crypto-focused promotions to add value when you choose digital currencies. Many offers can be paired with top slots and live tables, letting you shape each session to your mood. We keep activation clear: each promo explains what you get and how to claim it. Frequent players will notice “reload days” that increase deposit value on selected periods. We also launch sportsbook specials for accumulators and targeted markets to make betting even more engaging. In the end, you don’t get one-off deals—you get a full system of offers that keeps things rewarding every week.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonuses & specials\n<\/h4>\n\n <ul>\n            <li>• \nWelcome pack up to 5,500 + 200 FS — stronger start and more spins on top slots.\n\n<\/li>\n            <li>• \nSportsbook first deposit: 100% up to 150 — extra bankroll for early bets.\n\n<\/li>\n            <li>• \nCrypto bonuses: up to 200% (e.g., up to 3,000 USDT) — added value for crypto deposits.\n\n<\/li>\n            <li>• \nWeekly reload promos — deposit boosts on selected days to extend play.\n\n<\/li>\n\t    <li>• \nCashback promos outside loyalty — promotional weeks that return value from activity.\n\n<\/li>\n\t    <li>• \nSlot tournaments — prize pools distributed via leaderboard performance.\n\n<\/li>\n\t    <li>• \nMonthly races & themed leaderboards — rewards for spins and bets during the event window.\n\n<\/li>\n\t    <li>• \nMissions & challenges — complete tasks and earn coins\/bonuses as you progress.\n\n<\/li>\n\t    <li>• \nJackpot selections — extra “big win” excitement in curated games.\n\n<\/li>\n\t    <li>• \nLive events — themed weeks, curated tables, and session boosters.\n\n<\/li>\n\t    <li>• \nBoosted odds \/ specials — promos on selected matches and markets.\n\n<\/li>\n\t    <li>• \nAccumulator promos — rewards for successful streaks and combined bets.\n\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nGames & Betting: Slots, Live Casino, and Sportsbook Together\n<\/h3>\n\n<p>\nIn our casino, you get a complete entertainment lineup so every day can feel different. We built a huge slots lobby—from classics to modern mechanics with bonus buys and unique features. Strategy fans can enjoy table games like roulette, blackjack, baccarat, and multiple variants with flexible limits. Live casino brings real venue energy: professional dealers, studio-grade quality, and interactive chat. If you prefer fast pace, we offer instant games including crash-style formats and quick rounds. For “lottery-like” excitement, you can explore keno, bingo, and rapid draws. A dedicated jackpots section adds extra thrill with big-win vibes. On the betting side, we run a sportsbook with pre-match and live markets where you choose what fits your style—results, totals, handicaps, and more. Live betting updates quickly so you can act at the right moment. Esports and virtual events are available when you want action around the clock. Games and markets are organized by categories, making it easy to find what you want fast. Favorites and search help you build a personal list of go-to entertainment.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nQuick overview of games & betting:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSlots (pokies): classic, video slots, Megaways, Bonus Buy, exclusives.\n\n<\/li>\n            <li>• \nRoulette: European and themed variants, including live tables.\n\n<\/li>\n            <li>• \nBlackjack: multiple rules and limits, including VIP tables.\n\n<\/li>\n            <li>• \nBaccarat & poker formats: for strategic, steady gameplay.\n\n<\/li>\n\t    <li>• \nLive casino: dealers, game shows, studio streams.\n\n<\/li>\n\t    <li>• \nCrash & instant games: quick rounds, high energy.\n\n<\/li>\n\t    <li>• \nKeno\/bingo\/scratch: short “jump in and play” formats.\n\n<\/li>\n\t    <li>• \nJackpots: curated games with strong big-win feel.\n\n<\/li>\n\t    <li>• \nSportsbook: pre-match, live, accumulators, specials.\n\n<\/li>\n\t    <li>• \nEsports & virtuals: 24\/7 events for nonstop momentum.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBetting Limits: Minimums & Maximums Across Games and Sportsbook\n<\/h3>\n\n<p> \nWe keep betting limits flexible so both new and experienced players feel comfortable. Minimum bets let you start carefully and explore game mechanics, while maximums unlock the potential for bigger sessions. Limits may vary by provider, table, and chosen currency, so exact values are always shown before you place a bet. Below is a clear summary table of typical ranges to help you navigate faster.\n<\/p><br>\n\n<table style=\"width: 100%; border-collapse: collapse; margin: 20px auto; font-family: sans-serif; color: #ffffff;\">\n  <thead>\n    <tr style=\"background-color: #D40035;\">\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #172434; font-weight: bold;\">Game Type<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #172434; font-weight: bold;\">Min Bet<\/th>\n      <th style=\"border: 1px solid #ffffff; padding: 12px; text-align: left; color: #172434; font-weight: bold;\">Max Bet<\/th>\n    <\/tr>\n  <\/thead>\n  <tbody>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Slots (pokies)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">100<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Jackpot slots<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">200<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live roulette<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">40,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live blackjack<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">20,000<\/td>\n    <\/tr>\n    <tr >\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live baccarat<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">20,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Live game shows<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">9,200<\/td>\n    <\/tr>\n\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Crash \/ instant games<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.10<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">5,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Keno \/ bingo<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">0.20<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">2,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Sportsbook (single bets)<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n    <tr>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\"><strong>Accumulators & specials<\/strong><\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">1<\/td>\n      <td style=\"border: 1px solid #ffffff; padding: 10px;\">10,000<\/td>\n    <\/tr>\n  \n  <\/tbody>\n<\/table>\n<br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\n Tournaments & Leaderboards: How to Join and Win Prizes\n<\/h3>\n\n<p>\nOur tournaments and leaderboards are designed to turn your activity into clear competitive progress and real rewards. Joining is simple: pick an event, play eligible games or place qualifying bets—points are tracked automatically. In slot races, points typically reflect wagering (bet size), number of spins, and total activity during the event window. In live tournaments, scoring may include wager amounts and time spent at selected tables. In the sportsbook, points often depend on stake size and the number of settled bets within the tournament period. Results update in real time, so you can see your rank and understand what it takes to move up. Prizes are awarded after the event ends—from daily races to weekly competitions and “monthly races.” Rewards are credited to your balance or provided as a bonus according to event rules. To receive prizes, it’s usually enough that your account remains active and follows participation requirements. We clearly show eligible games\/markets, event timeframes, and prize structures so you can plan strategy. Tracking is easy inside the tournaments section, where rules, timers, and leaderboards are displayed together. The result is a competitive format where every spin and bet brings you closer to a reward.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nGood to know:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nHow to join: open Tournaments → choose an event → press “Join” (if required).\n\n<\/li>\n            <li>• \nHow points work: commonly based on total wagering, spins\/bets count, and event activity.\n\n<\/li>\n            <li>• \nWhat counts: stake\/spins\/time played (depends on the event type).\n\n<\/li>\n            <li>• \nHow to claim prizes: after the event ends, rewards are credited automatically or activated in profile.\n\n<\/li>\n\t    <li>• \nHow to track rank: leaderboards refresh in real time within the event card.\n\n<\/li>\n\t    <li>• \nPerformance tip: focus on eligible titles and stay consistent to climb ranks.\n\n\n<\/li>\n        <\/ul><br>\n\n\n\n"
+                    }
+                },
+                "faq": {
+                    "title": "Frequently Asked Questions",
+                    "items": [
+                        {
+                            "title": "Can I play in demo mode?",
+                            "answer": "Yes, many games offer demo mode so you can learn mechanics, bonus features, and rules without risking your balance.\n\n\n"
+                        },
+                        {
+                            "title": "How can I pass verification faster?",
+                            "answer": "Fill your profile accurately, prepare an ID document and address proof, and upload clear, high-quality images to speed up review.\n\n\n"
+                        },
+                        {
+                            "title": "Can I use multiple currencies in one account?",
+                            "answer": "Typically, currency is selected at signup, and we support multiple options—availability can be checked in account settings.\n\n\n"
+                        },
+                        {
+                            "title": "How do I enable limits and time reminders?",
+                            "answer": "In the responsible gaming section, you can set limits and reminders to manage deposits, time, and session pace.\n\n\n"
+                        },
+                        {
+                            "title": "Can I add extra login protection?",
+                            "answer": "Yes—use a strong password, keep your email secure, and monitor devices\/sessions in your profile for added safety.\n\n\n"
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
